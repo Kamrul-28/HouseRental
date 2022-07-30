@@ -85,7 +85,7 @@
         <div class="container-fluid header bg-white p-0">
             <div class="row g-0 align-items-center flex-column-reverse flex-md-row">
                 <div class="col-md-6 p-5 mt-lg-5">
-                    <h1 class="display-5 animated fadeIn mb-4">Find A <span class="text-primary">Perfect Room</span> To Live</h1>
+                    <h1 class="display-5 animated fadeIn mb-4">Find A <span class="text-primary">Perfect Place</span> To Live or Rent</h1>
                     <p class="animated fadeIn mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet
                         sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
                     <a href="" class="btn btn-primary py-3 px-5 me-3 animated fadeIn">Get Started</a>
@@ -208,7 +208,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                        <h1 class="mb-4">#1 Place To Find The Perfect Property</h1>
+                        <h1 class="mb-4">#1 Place To Find The Perfect Room</h1>
                         <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
                         <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
                         <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
@@ -776,7 +776,7 @@
                         <h5 class="text-white mb-4">Get In Touch</h5>
                         <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>IslamNagar Road,Khulna</p>
                         <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+8801748213616</p>
-                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>mushfiq.shafi13@gmail.com</p>
+                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>homeland78@gmail.com</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
